@@ -1,0 +1,72 @@
+---
+title: "Public and Patient Involvement and Engagement (PPIE)"
+subtitle: "Understanding Placenta-related Pregnancy Complications through Cell-free RNA Research"
+---
+
+# Welcome to My PPIE Activity Website
+This site is part of my preparation for the **NIHR Postdoctoral Fellowship** application.
+My proposed research aims to improve pregnancy outcomes by identifying **cell-free RNA (cfRNA) biomarkers** in maternal blood that can predict **placenta-related complications**, such as **preeclampsia** and **fetal growth restriction**.
+
+## Understanding Pregnancy Health Through Research
+
+Pregnancy is an incredible journey, but for some families, it can come with serious complications that affect both mother and baby.  
+My research focuses on understanding how **molecules called cell-free RNAs (cfRNAs)** circulating in the mother's blood can help us **predict pregnancy complications early**, before symptoms appear.
+
+I recently published our latest findings in *Nature Communications (2025)*:  
+[**"Raised Leptin and Pappalysin2 cell-free RNAs are the hallmarks of pregnancies complicated by preeclampsia with fetal growth restriction."**](https://www.nature.com/articles/s41467-025-61931-7)
+
+This fellowship project aims to build upon that work and develop a cfRNA-based tool to identify high-risk pregnancies.
+
+---
+
+## Why Patient and Public Involvement and Engagement (PPIE) Matters
+
+Patient and Public Involvement and Engagement (PPIE) ensures that research is **relevant, transparent, and meaningful** to the people it ultimately aims to help. 
+
+Through PPIE activities, members of the public can:
+
+- Share **their perspectives** on the importance and acceptability of the research.
+- Help **refine study design** and priorities.
+- Improve **communication** of scientific findings in plain language.
+- Ensure that research outcomes are **accessible and useful** to families and clinicians.
+
+Your feedback will help shape how we design and communicate this research — from what questions we ask to how we share results. 
+
+---
+
+## 🎥 Watch Our Webinar
+
+Below is a short webinar-style presentation explaining the project and how you can get involved.
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/9nts6IFt578" title="PPIE Webinar" frameborder="0" allowfullscreen></iframe>
+
+---
+
+## 🗳️ Take Part in Our PPIE Survey
+
+I would like to invite members of the public, especially parents and expectant mothers, to take part in our **short online survey**.  
+Your opinions will help guide the direction of our work.
+
+👉 **[Click here to take the survey](https://forms.office.com/e/AYFbkgAYEU)**  
+*(or scan the QR code below)*
+
+![QR code to survey](static/figure/QRCode for Feedback on Research Idea.png){width=400px}
+
+All responses are anonymous and confidential.
+
+Your voices and experiences are essential:
+
+- Reflects **real needs and priorities** of expectant families.
+- Uses **language and outcomes** that are understandable and meaningful.
+- Respects the **values and concerns** of those directly affected by pregnancy complications.
+- Leads to **better communication** between researchers, clinicians, and families.
+
+---
+
+## Contact
+
+If you have questions or would like to get involved further, please contact me at:  
+Sung Gong: 📧 **ssg29@cam.ac.uk**
+
+Thank you for your interest and support!
+

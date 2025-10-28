@@ -1,0 +1,94 @@
+---
+title: "Understanding the Placenta and Pregnancy Complications"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+## What is the Placenta?
+
+The **placenta** is a temporary organ that develops during pregnancy.  
+It connects the mother and baby, supplying oxygen and nutrients to the fetus and removing waste products.  
+Beyond being a nutrient bridge, the placenta also plays critical roles in:
+
+- Hormone production (e.g. hCG, progesterone, leptin)
+- Immune protection of the fetus
+- Regulation of fetal growth and development
+
+When the placenta does not form or function properly, it can lead to a range of **pregnancy complications**.
+
+---
+
+## Preeclampsia
+
+**Preeclampsia** is a serious pregnancy condition characterized by **high blood pressure** and **protein in the urine** after 20 weeks of gestation.  
+It affects around 5–8% of pregnancies and can cause serious health problems for both mother and baby.
+
+**Key facts:**
+
+- Often associated with abnormal placental development and blood flow.  
+- May cause symptoms such as headaches, swelling, or visual changes.  
+- In severe cases, it can lead to **seizures**, **organ failure**, or **stillbirth**.  
+- The only definitive cure is **delivery of the baby and placenta**.
+
+Early detection is therefore essential — and one goal of cfRNA biomarker research is to identify high-risk pregnancies **before symptoms appear**.
+
+---
+
+## Fetal Growth Restriction (FGR)
+
+**Fetal Growth Restriction (FGR)** occurs when a baby is smaller than expected for gestational age due to inadequate nutrient or oxygen supply from the placenta.
+
+**Why it matters:**
+
+- FGR increases the risk of stillbirth and long-term developmental issues.  
+- It often overlaps with preeclampsia and other placental dysfunctions.  
+- Early identification allows closer monitoring and timely delivery when necessary.
+
+---
+
+## Gestational Diabetes Mellitus (GDM)
+
+**Gestational diabetes** is a type of diabetes that develops during pregnancy.  
+It happens when the body cannot produce enough insulin to meet the increased demands of pregnancy.
+
+**Key points:**
+
+- Usually occurs in the second or third trimester.  
+- Can cause babies to grow too large (macrosomia), leading to birth complications.  
+- May increase the risk of preeclampsia and cesarean delivery.  
+- Women with GDM are more likely to develop type 2 diabetes later in life.
+
+Although GDM is primarily a metabolic disorder, it also affects placental function — highlighting how **maternal metabolism and placenta health are closely linked**.
+
+---
+
+## Why Study Cell-free RNAs?
+
+Cell-free RNAs (cfRNAs) are fragments of RNA released from cells into the blood.  
+During pregnancy, some cfRNAs originate from the **placenta** and can reflect how it is functioning.
+
+By studying cfRNAs, we can:
+
+- Detect early signs of placental stress or dysfunction.  
+- Predict complications before clinical symptoms appear.  
+- Potentially guide personalized monitoring and interventions.
+
+This line of research brings us closer to **non-invasive prediction tools** that could save lives and improve outcomes for mothers and babies.
+
+---
+
+## Learn More
+
+You can find more information and updates on the research through:
+
+- Cell-free RNAs [**published in Nature Communications in 2025**](https://www.nature.com/articles/s41467-025-61931-7)
+- Placenta transcriptome paper [**published in Nature Communications in 2021**](https://www.nature.com/articles/s41467-021-22695-y)
+- An interactive [**placenta transcriptome website**](https://www.obgyn.cam.ac.uk/placentome/)
+
+I have been involved with some previous public engagement activities such as:
+
+- [Cambridge Festival 2021: **“Pregnancy – a nine-month phone call”**](https://obsgynaecam.github.io/CF2021/)
+- [Cambridge Science Festival 2020: **“It takes 3 to Tango: Key players for a successful pregnancy”**](https://sung.github.io/CamObsGynCSF2020/)
+

@@ -1,0 +1,50 @@
+project:
+  type: website
+
+website:
+  title: "PPIE-NIHR"
+  cookie-consent: true
+  twitter-card: true
+  site-url: https://x.com/sunggong
+  #creator: "@sunggong"
+  #site: "@sunggong"
+  open-graph: true
+  page-footer:
+    left: |
+      Public and Patient Involvement & Engagement for my project, &copy; [Sungsam Gong](https://sung.github.io) (2025-)
+    right: |
+      This website was built with <a href="https://quarto.org/">Quarto</a>.
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: "Home"
+        #- icon: youtube
+        #href: webinar.qmd
+      - href: placenta.qmd
+        text: "Placental Disease"
+    tools:
+    - icon: twitter-x
+      href: https://x.com/sunggong
+    - icon: github
+      menu:
+        - text: Source Code
+          href: https://sung.github.io/ppie-2026
+        - text: Report a Bug
+          href: https://sung.github.io/ppie-2026
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: solar 
+    css: styles.css
+    toc: true
+    code-line-numbers: true
+    code-fold: true
+    code-tools: true
+    highlight-style: gruvbox
+
+
+
