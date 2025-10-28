@@ -5,7 +5,8 @@ execute:
   freeze: auto
 
 website:
-  title: "PPIE-NIHR"
+  title: "PPIE"
+  google-analytics: "G-RY5QNJQ2C6"
   cookie-consent: true
   twitter-card: true
   site-url: https://x.com/sunggong
@@ -33,9 +34,9 @@ website:
     - icon: github
       menu:
         - text: Source Code
-          href: https://sung.github.io/ppie-2026
+          href: https://sung.github.io/cfRNA-PPIE
         - text: Report a Bug
-          href: https://sung.github.io/ppie-2026
+          href: https://sung.github.io/cfRNA-PPIE
 
 format:
   html:
