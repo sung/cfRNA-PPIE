@@ -18,7 +18,6 @@ Beyond being a nutrient bridge, the placenta also plays critical roles in:
 
 When the placenta does not form or function properly, it can lead to a range of **pregnancy complications**.
 
----
 
 ## Preeclampsia
 
@@ -34,7 +33,6 @@ It affects around 5–8% of pregnancies and can cause serious health problems fo
 
 Early detection is therefore essential — and one goal of cfRNA biomarker research is to identify high-risk pregnancies **before symptoms appear**.
 
----
 
 ## Fetal Growth Restriction (FGR)
 
@@ -46,7 +44,6 @@ Early detection is therefore essential — and one goal of cfRNA biomarker resea
 - It often overlaps with preeclampsia and other placental dysfunctions.  
 - Early identification allows closer monitoring and timely delivery when necessary.
 
----
 
 ## Gestational Diabetes Mellitus (GDM)
 
@@ -62,7 +59,6 @@ It happens when the body cannot produce enough insulin to meet the increased dem
 
 Although GDM is primarily a metabolic disorder, it also affects placental function — highlighting how **maternal metabolism and placenta health are closely linked**.
 
----
 
 ## Why Study Cell-free RNAs?
 
@@ -77,7 +73,6 @@ By studying cfRNAs, we can:
 
 This line of research brings us closer to **non-invasive prediction tools** that could save lives and improve outcomes for mothers and babies.
 
----
 
 ## Learn More
 
