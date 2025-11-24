@@ -116,7 +116,7 @@
     "href": "index.html",
     "title": "Understanding Placenta-related Pregnancy Complications",
     "section": "",
-    "text": "Hello, my name is Sung. I am a researcher at Cambridge university interested in understanding how to predict pregnancy complications. I am planning a study and need the help of women and birthing people to shape the project.\nThe research will focus on finding markers in blood that can predict placenta-related pregnancy complications, such as preeclampsia and fetal growth restriction.\nThe blood markers that I am investigating is called cell-free RNAs (cfRNAs) and I found that their levels are elevated in pregnancies complicated by preeclampsia with fetal growth restriction based on my earlier study."
+    "text": "Hello, my name is Sung. I am a researcher at Cambridge university interested in understanding how to predict pregnancy complications. I am planning a study and need the help of women and birthing people to shape the project."
   },
   {
     "objectID": "index.html#what-is-this-research-about",
@@ -126,25 +126,39 @@
     "text": "🔍 What Is This Research About?\nI am developing a simple blood test to spot pregnancy complications—such as pre-eclampsia and fetal growth restriction—earlier and more accurately than current checks."
   },
   {
-    "objectID": "index.html#what-are-cell-free-rnas",
-    "href": "index.html#what-are-cell-free-rnas",
+    "objectID": "index.html#what-am-i-measuring",
+    "href": "index.html#what-am-i-measuring",
     "title": "Understanding Placenta-related Pregnancy Complications",
-    "section": "🧬 What Are Cell-Free RNAs?",
-    "text": "🧬 What Are Cell-Free RNAs?\ncfRNAs are tiny pieces of genetic material that come from the mum and/or the baby, and float in the mother’s bloodstream, giving a real-time picture of how the pregnancy is developing."
+    "section": "🧬 What Am I Measuring?",
+    "text": "🧬 What Am I Measuring?\nI am meausring molecules called cell-free RNAs that are tiny pieces of genetic material that come from the mum and/or the baby, and float in the mother’s bloodstream, giving a real-time picture of how the pregnancy is developing."
+  },
+  {
+    "objectID": "index.html#why-am-i-measuring-them",
+    "href": "index.html#why-am-i-measuring-them",
+    "title": "Understanding Placenta-related Pregnancy Complications",
+    "section": "🧪 Why Am I Measuring Them?",
+    "text": "🧪 Why Am I Measuring Them?\nOur recent research found that two cell-free RNAs—Leptin (LEP) and Pappalysin-2 (PAPPA2)—are higher in pregnancies with complications.\nI now want to check if these markers work well in a new group of pregnant women, using reliable lab technologies."
   },
   {
     "objectID": "index.html#how-will-i-measure-them",
     "href": "index.html#how-will-i-measure-them",
     "title": "Understanding Placenta-related Pregnancy Complications",
-    "section": "🧪 How Will I Measure Them?",
-    "text": "🧪 How Will I Measure Them?\n\n  \n    \n      \n        \n        \n        \n      \n      Digital PCR: very sensitive; detects tiny RNA amounts\n    \n    \n      \n        \n        \n      \n      NanoString nCounter: measures many markers at once; reproducible; used in diagnostics"
+    "section": "🔧 How Will I Measure Them?",
+    "text": "🔧 How Will I Measure Them?\n\n  \n    \n      \n        \n        \n        \n      \n      Digital PCR: very sensitive; detects tiny RNA amounts\n    \n    \n      \n        \n        \n      \n      NanoString nCounter: measures many markers at once; reproducible; used in diagnostics"
   },
   {
     "objectID": "index.html#why-this-matters",
     "href": "index.html#why-this-matters",
     "title": "Understanding Placenta-related Pregnancy Complications",
     "section": "👩‍🍼 Why This Matters",
-    "text": "👩‍🍼 Why This Matters\nEarly identification means closer monitoring, personalised care, and better outcomes for mothers and babies"
+    "text": "👩‍🍼 Why This Matters\nEarly identification means closer monitoring, personalised care, and better outcomes for mothers and babies."
+  },
+  {
+    "objectID": "index.html#how-are-patients-and-the-public-involved",
+    "href": "index.html#how-are-patients-and-the-public-involved",
+    "title": "Understanding Placenta-related Pregnancy Complications",
+    "section": "🤝 How Are Patients and the Public Involved?",
+    "text": "🤝 How Are Patients and the Public Involved?\nWomen with lived experience of pregnancy complications help us:\n\nshape the research questions,\nreview information materials,\ndesign how results are shared,\nensure the test is acceptable and useful,\n\nTheir voices guide the direction of the project."
   },
   {
     "objectID": "index.html#workflow",
@@ -158,7 +172,7 @@
     "href": "index.html#goal",
     "title": "Understanding Placenta-related Pregnancy Complications",
     "section": "🌟 Goal",
-    "text": "🌟 Goal\nCreate a reliable blood test to identify pregnancies at higher risk early, supporting personalised care and safer outcomes for families."
+    "text": "🌟 Goal\nTo develop a simple, reliable blood test that identifies pregnancies at higher risk early enough to make a real difference."
   },
   {
     "objectID": "index.html#watch-our-webinar",
