@@ -11,14 +11,21 @@
     "href": "placenta.html",
     "title": "Understanding the Placenta and Pregnancy Complications",
     "section": "",
-    "text": "The placenta is a temporary organ that develops during pregnancy.\nIt connects the mother and baby, supplying oxygen and nutrients to the fetus and removing waste products.\nBeyond being a nutrient bridge, the placenta also plays critical roles in:\n\nHormone production (e.g. hCG, progesterone, leptin)\nImmune protection of the fetus\nRegulation of fetal growth and development\n\nWhen the placenta does not form or function properly, it can lead to a range of pregnancy complications."
+    "text": "Pregnancy is an incredible journey, but for some families, it can come with serious complications that affect both mother and baby.\nPregnancy complications like pre-eclampsia (PE) and fetal growth restriction (FGR) can put mothers and babies at serious risk, yet they are often difficult to detect early. Current checks do not identify all women who will develop these problems. Earlier and more accurate tests could help the NHS provide better monitoring and reduce avoidable harm.\nThis project aims to develop a simple blood test that measures tiny fragments of genetic material called “cell-free RNAs” (cfRNAs). These come from the placenta and give a real-time picture of how the pregnancy is developing. My recent research found two cfRNAs—Leptin (LEP) and Pappalysin-2 (PAPPA2)—that are higher in pregnancies with PE and FGR. We now need to confirm these findings in a new group of women and test how well they can be measured using practical laboratory methods.\nWe will compare two technologies: digital PCR, which is extremely sensitive, and the NanoString nCounter, which can measure many markers at once and is already used in some clinical settings. Working with women who have experienced pregnancy complications, midwives, doctors, and NHS labs, we will explore whether this kind of test is accurate, useful, and acceptable.\nOur long-term goal is to create an early warning test that helps identify pregnancies at higher risk, so that personalised care and closer monitoring can be offered. This research aims to support safer pregnancies and healthier outcomes for families."
+  },
+  {
+    "objectID": "placenta.html#plain-english-summary",
+    "href": "placenta.html#plain-english-summary",
+    "title": "Understanding the Placenta and Pregnancy Complications",
+    "section": "",
+    "text": "Pregnancy is an incredible journey, but for some families, it can come with serious complications that affect both mother and baby.\nPregnancy complications like pre-eclampsia (PE) and fetal growth restriction (FGR) can put mothers and babies at serious risk, yet they are often difficult to detect early. Current checks do not identify all women who will develop these problems. Earlier and more accurate tests could help the NHS provide better monitoring and reduce avoidable harm.\nThis project aims to develop a simple blood test that measures tiny fragments of genetic material called “cell-free RNAs” (cfRNAs). These come from the placenta and give a real-time picture of how the pregnancy is developing. My recent research found two cfRNAs—Leptin (LEP) and Pappalysin-2 (PAPPA2)—that are higher in pregnancies with PE and FGR. We now need to confirm these findings in a new group of women and test how well they can be measured using practical laboratory methods.\nWe will compare two technologies: digital PCR, which is extremely sensitive, and the NanoString nCounter, which can measure many markers at once and is already used in some clinical settings. Working with women who have experienced pregnancy complications, midwives, doctors, and NHS labs, we will explore whether this kind of test is accurate, useful, and acceptable.\nOur long-term goal is to create an early warning test that helps identify pregnancies at higher risk, so that personalised care and closer monitoring can be offered. This research aims to support safer pregnancies and healthier outcomes for families."
   },
   {
     "objectID": "placenta.html#what-is-the-placenta",
     "href": "placenta.html#what-is-the-placenta",
     "title": "Understanding the Placenta and Pregnancy Complications",
-    "section": "",
-    "text": "The placenta is a temporary organ that develops during pregnancy.\nIt connects the mother and baby, supplying oxygen and nutrients to the fetus and removing waste products.\nBeyond being a nutrient bridge, the placenta also plays critical roles in:\n\nHormone production (e.g. hCG, progesterone, leptin)\nImmune protection of the fetus\nRegulation of fetal growth and development\n\nWhen the placenta does not form or function properly, it can lead to a range of pregnancy complications."
+    "section": "What is the Placenta?",
+    "text": "What is the Placenta?\nThe placenta is a temporary organ that develops during pregnancy.\nIt connects the mother and baby, supplying oxygen and nutrients to the fetus and removing waste products.\nBeyond being a nutrient bridge, the placenta also plays critical roles in:\n\nHormone production (e.g. hCG, progesterone, leptin)\nImmune protection of the fetus\nRegulation of fetal growth and development\n\nWhen the placenta does not form or function properly, it can lead to a range of pregnancy complications."
   },
   {
     "objectID": "placenta.html#preeclampsia",
@@ -60,14 +67,21 @@
     "href": "plan.html",
     "title": "Patient and Public Involvement and Engagement (PPIE) Plan",
     "section": "",
-    "text": "This project aims to co-design and refine a research programme that uses cell-free RNA (cfRNA) biomarkers in maternal blood to predict placenta-related pregnancy complications such as preeclampsia and fetal growth restriction. Patient and public involvement will ensure that the research is shaped by the experiences, needs, and priorities of women and families, and that study materials are clear, acceptable, and sensitive to the challenges of complicated pregnancies."
+    "text": "Patient and Public Involvement and Engagement (PPIE) ensures that research is relevant, transparent, and meaningful to the people it ultimately aims to help.\nThrough PPIE activities, members of the public can:\n\nShare their perspectives on the importance and acceptability of the research.\nHelp refine study design and priorities.\nImprove communication of scientific findings in plain language.\nEnsure that research outcomes are accessible and useful to families and clinicians.\n\nYour feedback will help shape how we design and communicate this research — from what questions we ask to how we share results."
+  },
+  {
+    "objectID": "plan.html#why-patient-and-public-involvement-and-engagement-ppie-matters",
+    "href": "plan.html#why-patient-and-public-involvement-and-engagement-ppie-matters",
+    "title": "Patient and Public Involvement and Engagement (PPIE) Plan",
+    "section": "",
+    "text": "Patient and Public Involvement and Engagement (PPIE) ensures that research is relevant, transparent, and meaningful to the people it ultimately aims to help.\nThrough PPIE activities, members of the public can:\n\nShare their perspectives on the importance and acceptability of the research.\nHelp refine study design and priorities.\nImprove communication of scientific findings in plain language.\nEnsure that research outcomes are accessible and useful to families and clinicians.\n\nYour feedback will help shape how we design and communicate this research — from what questions we ask to how we share results."
   },
   {
     "objectID": "plan.html#purpose-of-ppie",
     "href": "plan.html#purpose-of-ppie",
     "title": "Patient and Public Involvement and Engagement (PPIE) Plan",
-    "section": "",
-    "text": "This project aims to co-design and refine a research programme that uses cell-free RNA (cfRNA) biomarkers in maternal blood to predict placenta-related pregnancy complications such as preeclampsia and fetal growth restriction. Patient and public involvement will ensure that the research is shaped by the experiences, needs, and priorities of women and families, and that study materials are clear, acceptable, and sensitive to the challenges of complicated pregnancies."
+    "section": "Purpose of PPIE",
+    "text": "Purpose of PPIE\nThis project aims to co-design and refine a research programme that uses cell-free RNA (cfRNA) biomarkers in maternal blood to predict placenta-related pregnancy complications such as preeclampsia and fetal growth restriction. Patient and public involvement will ensure that the research is shaped by the experiences, needs, and priorities of women and families, and that study materials are clear, acceptable, and sensitive to the challenges of complicated pregnancies."
   },
   {
     "objectID": "plan.html#who-will-be-involved",
@@ -100,44 +114,72 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Public and Patient Involvement and Engagement (PPIE)",
+    "title": "Understanding Placenta-related Pregnancy Complications",
     "section": "",
-    "text": "This site is part of my preparation for the NIHR Postdoctoral Fellowship application. My proposed research aims to improve pregnancy outcomes by identifying cell-free RNA (cfRNA) biomarkers in maternal blood that can predict placenta-related complications, such as preeclampsia and fetal growth restriction.\n\n\nPregnancy is an incredible journey, but for some families, it can come with serious complications that affect both mother and baby.\nMy research focuses on understanding how molecules called cell-free RNAs (cfRNAs) circulating in the mother’s blood can help us predict pregnancy complications early, before symptoms appear.\nI recently published our latest findings in Nature Communications (2025):\n“Raised Leptin and Pappalysin2 cell-free RNAs are the hallmarks of pregnancies complicated by preeclampsia with fetal growth restriction.”\nThis fellowship project aims to build upon that work and develop a cfRNA-based tool to identify high-risk pregnancies.\n\n\n\n\nPatient and Public Involvement and Engagement (PPIE) ensures that research is relevant, transparent, and meaningful to the people it ultimately aims to help.\nThrough PPIE activities, members of the public can:\n\nShare their perspectives on the importance and acceptability of the research.\nHelp refine study design and priorities.\nImprove communication of scientific findings in plain language.\nEnsure that research outcomes are accessible and useful to families and clinicians.\n\nYour feedback will help shape how we design and communicate this research — from what questions we ask to how we share results.\n\n\n\n\nBelow is a short webinar-style presentation explaining the project and how you can get involved.\n\n\n\n\n\n\nI would like to invite members of the public, especially parents and expectant mothers, to take part in our short online survey.\nYour opinions will help guide the direction of our work.\n👉 Click here to take the survey\n(or scan the QR code below)\n\n\n\nQR code to survey\n\n\nAll responses are anonymous and confidential.\nYour voices and experiences are essential:\n\nReflects real needs and priorities of expectant families.\nUses language and outcomes that are understandable and meaningful.\nRespects the values and concerns of those directly affected by pregnancy complications.\nLeads to better communication between researchers, clinicians, and families.\n\n\n\n\n\nIf you have questions or would like to get involved further, please contact me at:\nSung Gong: 📧 ssg29@cam.ac.uk\nThank you for your interest and support!"
+    "text": "Hello, my name is Sung. I am a researcher at Cambridge university interested in understanding how to predict pregnancy complications. I am planning a study and need the help of women and birthing people to shape the project.\nThe research will focus on finding markers in blood that can predict placenta-related pregnancy complications, such as preeclampsia and fetal growth restriction.\nThe blood markers that I am investigating is called cell-free RNAs (cfRNAs) and I found that their levels are elevated in pregnancies complicated by preeclampsia with fetal growth restriction based on my earlier study."
   },
   {
-    "objectID": "index.html#understanding-pregnancy-health-through-research",
-    "href": "index.html#understanding-pregnancy-health-through-research",
-    "title": "Public and Patient Involvement and Engagement (PPIE)",
-    "section": "",
-    "text": "Pregnancy is an incredible journey, but for some families, it can come with serious complications that affect both mother and baby.\nMy research focuses on understanding how molecules called cell-free RNAs (cfRNAs) circulating in the mother’s blood can help us predict pregnancy complications early, before symptoms appear.\nI recently published our latest findings in Nature Communications (2025):\n“Raised Leptin and Pappalysin2 cell-free RNAs are the hallmarks of pregnancies complicated by preeclampsia with fetal growth restriction.”\nThis fellowship project aims to build upon that work and develop a cfRNA-based tool to identify high-risk pregnancies."
+    "objectID": "index.html#what-is-this-research-about",
+    "href": "index.html#what-is-this-research-about",
+    "title": "Understanding Placenta-related Pregnancy Complications",
+    "section": "🔍 What Is This Research About?",
+    "text": "🔍 What Is This Research About?\nI am developing a simple blood test to spot pregnancy complications—such as pre-eclampsia and fetal growth restriction—earlier and more accurately than current checks."
   },
   {
-    "objectID": "index.html#why-patient-and-public-involvement-and-engagement-ppie-matters",
-    "href": "index.html#why-patient-and-public-involvement-and-engagement-ppie-matters",
-    "title": "Public and Patient Involvement and Engagement (PPIE)",
-    "section": "",
-    "text": "Patient and Public Involvement and Engagement (PPIE) ensures that research is relevant, transparent, and meaningful to the people it ultimately aims to help.\nThrough PPIE activities, members of the public can:\n\nShare their perspectives on the importance and acceptability of the research.\nHelp refine study design and priorities.\nImprove communication of scientific findings in plain language.\nEnsure that research outcomes are accessible and useful to families and clinicians.\n\nYour feedback will help shape how we design and communicate this research — from what questions we ask to how we share results."
+    "objectID": "index.html#what-are-cell-free-rnas",
+    "href": "index.html#what-are-cell-free-rnas",
+    "title": "Understanding Placenta-related Pregnancy Complications",
+    "section": "🧬 What Are Cell-Free RNAs?",
+    "text": "🧬 What Are Cell-Free RNAs?\ncfRNAs are tiny pieces of genetic material that come from the mum and/or the baby, and float in the mother’s bloodstream, giving a real-time picture of how the pregnancy is developing."
+  },
+  {
+    "objectID": "index.html#how-will-i-measure-them",
+    "href": "index.html#how-will-i-measure-them",
+    "title": "Understanding Placenta-related Pregnancy Complications",
+    "section": "🧪 How Will I Measure Them?",
+    "text": "🧪 How Will I Measure Them?\n\n  \n    \n      \n        \n        \n        \n      \n      Digital PCR: very sensitive; detects tiny RNA amounts\n    \n    \n      \n        \n        \n      \n      NanoString nCounter: measures many markers at once; reproducible; used in diagnostics"
+  },
+  {
+    "objectID": "index.html#why-this-matters",
+    "href": "index.html#why-this-matters",
+    "title": "Understanding Placenta-related Pregnancy Complications",
+    "section": "👩‍🍼 Why This Matters",
+    "text": "👩‍🍼 Why This Matters\nEarly identification means closer monitoring, personalised care, and better outcomes for mothers and babies"
+  },
+  {
+    "objectID": "index.html#workflow",
+    "href": "index.html#workflow",
+    "title": "Understanding Placenta-related Pregnancy Complications",
+    "section": "📅 Workflow",
+    "text": "📅 Workflow\n\n Discovery   Assay Development   Clinical Validation   Implementation & Testing\n\n\nHigh-level workflow from discovery to deployment."
+  },
+  {
+    "objectID": "index.html#goal",
+    "href": "index.html#goal",
+    "title": "Understanding Placenta-related Pregnancy Complications",
+    "section": "🌟 Goal",
+    "text": "🌟 Goal\nCreate a reliable blood test to identify pregnancies at higher risk early, supporting personalised care and safer outcomes for families."
   },
   {
     "objectID": "index.html#watch-our-webinar",
     "href": "index.html#watch-our-webinar",
-    "title": "Public and Patient Involvement and Engagement (PPIE)",
-    "section": "",
-    "text": "Below is a short webinar-style presentation explaining the project and how you can get involved."
+    "title": "Understanding Placenta-related Pregnancy Complications",
+    "section": "🎥 Watch Our Webinar",
+    "text": "🎥 Watch Our Webinar\nBelow is a short webinar-style presentation explaining the project and how you can get involved."
   },
   {
     "objectID": "index.html#take-part-in-our-ppie-survey",
     "href": "index.html#take-part-in-our-ppie-survey",
-    "title": "Public and Patient Involvement and Engagement (PPIE)",
-    "section": "",
-    "text": "I would like to invite members of the public, especially parents and expectant mothers, to take part in our short online survey.\nYour opinions will help guide the direction of our work.\n👉 Click here to take the survey\n(or scan the QR code below)\n\n\n\nQR code to survey\n\n\nAll responses are anonymous and confidential.\nYour voices and experiences are essential:\n\nReflects real needs and priorities of expectant families.\nUses language and outcomes that are understandable and meaningful.\nRespects the values and concerns of those directly affected by pregnancy complications.\nLeads to better communication between researchers, clinicians, and families."
+    "title": "Understanding Placenta-related Pregnancy Complications",
+    "section": "🗳️ Take Part in Our PPIE Survey",
+    "text": "🗳️ Take Part in Our PPIE Survey\nI would like to invite members of public, especially parents and expectant mothers, to take part in our short online survey. Your opinions will help guide the direction of our work.\n👉 Click here to take the survey (or scan the QR code below)\n\n\n\nQR code to survey\n\n\nAll responses are anonymous and confidential.\nYour voices and experiences are essential:\n\nReflects real needs and priorities of expectant families.\nUses language and outcomes that are understandable and meaningful.\nRespects the values and concerns of those directly affected by pregnancy complications.\nLeads to better communication between researchers, clinicians, and families."
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
-    "title": "Public and Patient Involvement and Engagement (PPIE)",
-    "section": "",
-    "text": "If you have questions or would like to get involved further, please contact me at:\nSung Gong: 📧 ssg29@cam.ac.uk\nThank you for your interest and support!"
+    "title": "Understanding Placenta-related Pregnancy Complications",
+    "section": "Contact",
+    "text": "Contact\nIf you have questions or would like to get involved further, please contact me at: Sung Gong: 📧 ssg29@cam.ac.uk\nThank you for your interest and support!"
   },
   {
     "objectID": "webinar.html",
