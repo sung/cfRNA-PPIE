@@ -9,7 +9,8 @@ website:
   google-analytics: "G-RY5QNJQ2C6"
   cookie-consent: true
   twitter-card: true
-  site-url: https://x.com/sunggong
+  site-url: https://sung.github.io/cfRNA-PPIE
+  repo-url: https://github.com/sung/cfRNA-PPIE
   #creator: "@sunggong"
   #site: "@sunggong"
   open-graph: true
@@ -42,6 +43,10 @@ website:
 
 format:
   html:
+    include-in-header:
+      text: |
+        <meta http-equiv="refresh" content="0; URL=https://sung.github.io/POP-AI-PPIE/">
+        <link rel="canonical" href="https://sung.github.io/POP-AI-PPIE">
     theme:
       light: cosmo
       dark: solar 
