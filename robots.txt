@@ -1,1 +1,1 @@
-Sitemap: https://x.com/sunggong/sitemap.xml
+Sitemap: https://sung.github.io/cfRNA-PPIE/sitemap.xml

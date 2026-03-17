@@ -7,6 +7,97 @@
     "text": "About this site"
   },
   {
+    "objectID": "webinar.html",
+    "href": "webinar.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\n\nfoo"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Understanding Placenta-related Pregnancy Complications",
+    "section": "",
+    "text": "Hello, my name is Sung. I am a researcher at Cambridge university interested in understanding how to predict pregnancy complications. I am planning a study and need the help of women and birthing people to shape the project."
+  },
+  {
+    "objectID": "index.html#what-is-this-research-about",
+    "href": "index.html#what-is-this-research-about",
+    "title": "Understanding Placenta-related Pregnancy Complications",
+    "section": "🔍 What Is This Research About?",
+    "text": "🔍 What Is This Research About?\nI am developing a simple blood test to spot pregnancy complications—such as pre-eclampsia and fetal growth restriction—earlier and more accurately than current checks."
+  },
+  {
+    "objectID": "index.html#what-am-i-measuring",
+    "href": "index.html#what-am-i-measuring",
+    "title": "Understanding Placenta-related Pregnancy Complications",
+    "section": "🧬 What Am I Measuring?",
+    "text": "🧬 What Am I Measuring?\nI am meausring molecules called cell-free RNAs that are tiny pieces of genetic material that come from the mum and/or the baby, and float in the mother’s bloodstream, giving a real-time picture of how the pregnancy is developing."
+  },
+  {
+    "objectID": "index.html#why-am-i-measuring-them",
+    "href": "index.html#why-am-i-measuring-them",
+    "title": "Understanding Placenta-related Pregnancy Complications",
+    "section": "🧪 Why Am I Measuring Them?",
+    "text": "🧪 Why Am I Measuring Them?\nOur recent research found that two cell-free RNAs—Leptin (LEP) and Pappalysin-2 (PAPPA2)—are higher in pregnancies with complications.\nI now want to check if these markers work well in a new group of pregnant women, using reliable lab technologies."
+  },
+  {
+    "objectID": "index.html#how-will-i-measure-them",
+    "href": "index.html#how-will-i-measure-them",
+    "title": "Understanding Placenta-related Pregnancy Complications",
+    "section": "🔧 How Will I Measure Them?",
+    "text": "🔧 How Will I Measure Them?\n\n  \n    \n      \n        \n        \n        \n      \n      Digital PCR: very sensitive; detects tiny RNA amounts\n    \n    \n      \n        \n        \n      \n      NanoString nCounter: measures many markers at once; reproducible; used in diagnostics"
+  },
+  {
+    "objectID": "index.html#why-this-matters",
+    "href": "index.html#why-this-matters",
+    "title": "Understanding Placenta-related Pregnancy Complications",
+    "section": "👩‍🍼 Why This Matters",
+    "text": "👩‍🍼 Why This Matters\nEarly identification means closer monitoring, personalised care, and better outcomes for mothers and babies."
+  },
+  {
+    "objectID": "index.html#how-are-patients-and-the-public-involved",
+    "href": "index.html#how-are-patients-and-the-public-involved",
+    "title": "Understanding Placenta-related Pregnancy Complications",
+    "section": "🤝 How Are Patients and the Public Involved?",
+    "text": "🤝 How Are Patients and the Public Involved?\nWomen with lived experience of pregnancy complications help us:\n\nshape the research questions,\nreview information materials,\ndesign how results are shared,\nensure the test is acceptable and useful,\n\nTheir voices guide the direction of the project."
+  },
+  {
+    "objectID": "index.html#workflow",
+    "href": "index.html#workflow",
+    "title": "Understanding Placenta-related Pregnancy Complications",
+    "section": "📅 Workflow",
+    "text": "📅 Workflow\n\n Discovery   Assay Development   Clinical Validation   Implementation & Testing\n\n\nHigh-level workflow from discovery to deployment."
+  },
+  {
+    "objectID": "index.html#goal",
+    "href": "index.html#goal",
+    "title": "Understanding Placenta-related Pregnancy Complications",
+    "section": "🌟 Goal",
+    "text": "🌟 Goal\nTo develop a simple, reliable blood test that identifies pregnancies at higher risk early enough to make a real difference."
+  },
+  {
+    "objectID": "index.html#watch-our-webinar",
+    "href": "index.html#watch-our-webinar",
+    "title": "Understanding Placenta-related Pregnancy Complications",
+    "section": "🎥 Watch Our Webinar",
+    "text": "🎥 Watch Our Webinar\nBelow is a short webinar-style presentation explaining the project and how you can get involved."
+  },
+  {
+    "objectID": "index.html#take-part-in-our-ppie-survey",
+    "href": "index.html#take-part-in-our-ppie-survey",
+    "title": "Understanding Placenta-related Pregnancy Complications",
+    "section": "🗳️ Take Part in Our PPIE Survey",
+    "text": "🗳️ Take Part in Our PPIE Survey\nI would like to invite members of public, especially parents and expectant mothers, to take part in our short online survey. Your opinions will help guide the direction of our work.\n👉 Click here to take the survey (or scan the QR code below)\n\n\n\nQR code to survey\n\n\nAll responses are anonymous and confidential.\nYour voices and experiences are essential:\n\nReflects real needs and priorities of expectant families.\nUses language and outcomes that are understandable and meaningful.\nRespects the values and concerns of those directly affected by pregnancy complications.\nLeads to better communication between researchers, clinicians, and families."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Understanding Placenta-related Pregnancy Complications",
+    "section": "Contact",
+    "text": "Contact\nIf you have questions or would like to get involved further, please contact me at: Sung Gong: 📧 ssg29@cam.ac.uk\nThank you for your interest and support!"
+  },
+  {
     "objectID": "placenta.html",
     "href": "placenta.html",
     "title": "Understanding the Placenta and Pregnancy Complications",
@@ -110,96 +201,5 @@
     "title": "Patient and Public Involvement and Engagement (PPIE) Plan",
     "section": "How feedback will be used",
     "text": "How feedback will be used\n\nAdjusting the language and content of study materials to ensure they are understandable and supportive.\nInforming study design, especially around consent, recruitment, and communication of results.\nIdentifying potential barriers and enablers for participation in cfRNA research.\nGuiding communication strategies for dissemination to both the public and clinical audiences."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Understanding Placenta-related Pregnancy Complications",
-    "section": "",
-    "text": "Hello, my name is Sung. I am a researcher at Cambridge university interested in understanding how to predict pregnancy complications. I am planning a study and need the help of women and birthing people to shape the project."
-  },
-  {
-    "objectID": "index.html#what-is-this-research-about",
-    "href": "index.html#what-is-this-research-about",
-    "title": "Understanding Placenta-related Pregnancy Complications",
-    "section": "🔍 What Is This Research About?",
-    "text": "🔍 What Is This Research About?\nI am developing a simple blood test to spot pregnancy complications—such as pre-eclampsia and fetal growth restriction—earlier and more accurately than current checks."
-  },
-  {
-    "objectID": "index.html#what-am-i-measuring",
-    "href": "index.html#what-am-i-measuring",
-    "title": "Understanding Placenta-related Pregnancy Complications",
-    "section": "🧬 What Am I Measuring?",
-    "text": "🧬 What Am I Measuring?\nI am meausring molecules called cell-free RNAs that are tiny pieces of genetic material that come from the mum and/or the baby, and float in the mother’s bloodstream, giving a real-time picture of how the pregnancy is developing."
-  },
-  {
-    "objectID": "index.html#why-am-i-measuring-them",
-    "href": "index.html#why-am-i-measuring-them",
-    "title": "Understanding Placenta-related Pregnancy Complications",
-    "section": "🧪 Why Am I Measuring Them?",
-    "text": "🧪 Why Am I Measuring Them?\nOur recent research found that two cell-free RNAs—Leptin (LEP) and Pappalysin-2 (PAPPA2)—are higher in pregnancies with complications.\nI now want to check if these markers work well in a new group of pregnant women, using reliable lab technologies."
-  },
-  {
-    "objectID": "index.html#how-will-i-measure-them",
-    "href": "index.html#how-will-i-measure-them",
-    "title": "Understanding Placenta-related Pregnancy Complications",
-    "section": "🔧 How Will I Measure Them?",
-    "text": "🔧 How Will I Measure Them?\n\n  \n    \n      \n        \n        \n        \n      \n      Digital PCR: very sensitive; detects tiny RNA amounts\n    \n    \n      \n        \n        \n      \n      NanoString nCounter: measures many markers at once; reproducible; used in diagnostics"
-  },
-  {
-    "objectID": "index.html#why-this-matters",
-    "href": "index.html#why-this-matters",
-    "title": "Understanding Placenta-related Pregnancy Complications",
-    "section": "👩‍🍼 Why This Matters",
-    "text": "👩‍🍼 Why This Matters\nEarly identification means closer monitoring, personalised care, and better outcomes for mothers and babies."
-  },
-  {
-    "objectID": "index.html#how-are-patients-and-the-public-involved",
-    "href": "index.html#how-are-patients-and-the-public-involved",
-    "title": "Understanding Placenta-related Pregnancy Complications",
-    "section": "🤝 How Are Patients and the Public Involved?",
-    "text": "🤝 How Are Patients and the Public Involved?\nWomen with lived experience of pregnancy complications help us:\n\nshape the research questions,\nreview information materials,\ndesign how results are shared,\nensure the test is acceptable and useful,\n\nTheir voices guide the direction of the project."
-  },
-  {
-    "objectID": "index.html#workflow",
-    "href": "index.html#workflow",
-    "title": "Understanding Placenta-related Pregnancy Complications",
-    "section": "📅 Workflow",
-    "text": "📅 Workflow\n\n Discovery   Assay Development   Clinical Validation   Implementation & Testing\n\n\nHigh-level workflow from discovery to deployment."
-  },
-  {
-    "objectID": "index.html#goal",
-    "href": "index.html#goal",
-    "title": "Understanding Placenta-related Pregnancy Complications",
-    "section": "🌟 Goal",
-    "text": "🌟 Goal\nTo develop a simple, reliable blood test that identifies pregnancies at higher risk early enough to make a real difference."
-  },
-  {
-    "objectID": "index.html#watch-our-webinar",
-    "href": "index.html#watch-our-webinar",
-    "title": "Understanding Placenta-related Pregnancy Complications",
-    "section": "🎥 Watch Our Webinar",
-    "text": "🎥 Watch Our Webinar\nBelow is a short webinar-style presentation explaining the project and how you can get involved."
-  },
-  {
-    "objectID": "index.html#take-part-in-our-ppie-survey",
-    "href": "index.html#take-part-in-our-ppie-survey",
-    "title": "Understanding Placenta-related Pregnancy Complications",
-    "section": "🗳️ Take Part in Our PPIE Survey",
-    "text": "🗳️ Take Part in Our PPIE Survey\nI would like to invite members of public, especially parents and expectant mothers, to take part in our short online survey. Your opinions will help guide the direction of our work.\n👉 Click here to take the survey (or scan the QR code below)\n\n\n\nQR code to survey\n\n\nAll responses are anonymous and confidential.\nYour voices and experiences are essential:\n\nReflects real needs and priorities of expectant families.\nUses language and outcomes that are understandable and meaningful.\nRespects the values and concerns of those directly affected by pregnancy complications.\nLeads to better communication between researchers, clinicians, and families."
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Understanding Placenta-related Pregnancy Complications",
-    "section": "Contact",
-    "text": "Contact\nIf you have questions or would like to get involved further, please contact me at: Sung Gong: 📧 ssg29@cam.ac.uk\nThank you for your interest and support!"
-  },
-  {
-    "objectID": "webinar.html",
-    "href": "webinar.html",
-    "title": "",
-    "section": "",
-    "text": "Code\n\n\n\n\n\nfoo"
   }
 ]
